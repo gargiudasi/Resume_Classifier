@@ -2,8 +2,10 @@
 create apis with fastapi
 """
 
-from fastapi import FastAPI, Form
 import joblib
+import os
+import uvicorn
+from fastapi import FastAPI, Form
 
 app = FastAPI()
 # Load pkl file stored in model folder
@@ -26,3 +28,7 @@ def predict(text: str = Form(...)):
     predict the output for given input
     """
     return {"prediction": model.predict([text])[0]}
+
+
+if __name__ == "__main__":
+    uvicorn.run(app, host="0.0.0.0", port=int(os.getenv("PORT", 8000)))
