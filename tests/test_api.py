@@ -7,6 +7,7 @@ from app.main import app
 
 client = TestClient(app)
 
+
 def test_home():
     """
     test api is running or not
@@ -14,6 +15,7 @@ def test_home():
     response = client.get("/")
     assert response.status_code == 200
     assert response.json() == {"message": "you have successfully lauched the app"}
+
 
 def test_predict():
     """

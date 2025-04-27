@@ -13,6 +13,7 @@ MODEL_PATH = "models/resume_classifier.pkl"
 
 model = joblib.load(MODEL_PATH)
 
+
 @app.get("/")
 def message():
     """

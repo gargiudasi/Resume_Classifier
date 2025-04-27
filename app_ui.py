@@ -22,4 +22,3 @@ if st.button("Predict Job Role"):
             st.error("⚠️ Could not connect to API. Please check your deployment.")
     else:
         st.warning("Please paste some resume text to get started.")
-

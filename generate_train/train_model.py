@@ -9,7 +9,7 @@ from sklearn.pipeline import Pipeline
 from sklearn.model_selection import train_test_split
 import joblib
 
-# Load resume file 
+# Load resume file
 df = pd.read_csv("data/resumes.csv")
 
 # Train Test Split data
@@ -20,8 +20,8 @@ X_train, X_test, y_train, y_test = train_test_split(
 # Pipeline to load tfidf vectorizer and apply logistic regressions model
 model = Pipeline([("tfidf", TfidfVectorizer()), ("clf", LogisticRegression())])
 
-# Fit the model on training data 
+# Fit the model on training data
 model.fit(X_train, y_train)
 
-# Save model to models folder 
+# Save model to models folder
 joblib.dump(model, "models/resume_classifier.pkl")
