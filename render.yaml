@@ -1,0 +1,15 @@
+# This file defines services for deployment on Render.com
+# It tells Render how to build and run the application
+
+services:
+  - type: web
+    name: resume-api
+    runtime: python
+    buildCommand: |
+    "pip install -r requirements.txt"
+    "python notebooks/generate_data.py"
+    "python notebooks/train_model.py"
+    startCommand: "uvicorn app.main:app --host 0.0.0.0 --port 10000"
+    envVars:
+      - key: PORT
+        value: 10000
