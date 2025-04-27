@@ -2,10 +2,8 @@
 create apis with fastapi
 """
 
-import os
 from fastapi import FastAPI, Form
 import joblib
-import gdown
 
 app = FastAPI()
 # Load pkl file stored in model folder

@@ -14,11 +14,13 @@ if st.button("Predict Job Role"):
     if text:
         try:
             response = requests.post(
-                "https://resume-api-ed9k.onrender.com/predict/", data={"text": text}
+                "https://resume-api-ed9k.onrender.com/predict/",
+                data={"text": text},
+                timeout=30,
             )
             result = response.json()
             st.success(f"🧠 Predicted Role: {result['prediction']}")
-        except Exception as e:
-            st.error("⚠️ Could not connect to API. Please check your deployment.")
+        except requests.exceptions.RequestException as e:
+            st.error(f"Request failed: {e}")
     else:
         st.warning("Please paste some resume text to get started.")
