@@ -2,8 +2,9 @@
 create apis with fastapi
 """
 
-import joblib
 import os
+import joblib
+
 import uvicorn
 from fastapi import FastAPI, Form
 
@@ -31,4 +32,7 @@ def predict(text: str = Form(...)):
 
 
 if __name__ == "__main__":
-    uvicorn.run(app, host="0.0.0.0", port=int(os.getenv("PORT", 8000)))
+    # Use os.getenv to get the $PORT variable, default to '8000' if not set
+    port = int(os.getenv("PORT", 8000))  # Convert to integer after getting the value
+    print(os.getenv("PORT", 8000))
+    uvicorn.run(app, host="0.0.0.0", port=port)
