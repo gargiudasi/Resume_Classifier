@@ -8,9 +8,9 @@ __pycache__/
 # Ignore Jupyter notebook checkpoints
 .ipynb_checkpoints/
 
-# Ignore model files (optional — keep if you plan to upload later via release or external link)
-models/*.pkl
-data/*.csv
+# # Ignore model files (optional — keep if you plan to upload later via release or external link)
+# models/*.pkl
+# data/*.csv
 
 # Ignore environment variables (if used)
 .env
