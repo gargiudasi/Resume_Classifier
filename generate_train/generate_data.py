@@ -31,3 +31,5 @@ df["label"] = df["label"].str.lower()
 
 # store resumes.csv file to data folder
 df.to_csv("data/resumes.csv", index=False, columns=["text", "label"])
+
+csv_path = "/tmp/mydata.csv"

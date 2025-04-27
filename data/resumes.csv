@@ -1,0 +1,290 @@
+text,label
+"web accessibility guidelines, html, css, javascript, user experience design",accessibility specialist
+"big data management, hadoop, spark, data warehousing, sql",admin big data
+"agile methodologies, scrum, kanban, project management tools, leadership",agile project manager
+"java, kotlin, android sdk, mobile app development, ui/ux design",android developer
+"ansible, automation scripts, linux, networking, cloud computing",ansible automation engineer
+"security protocols, penetration testing, secure coding practices, compliance",application security engineer
+"artifactory, repository management, devops tools, ci/cd pipelines",artifactory administrator
+"artifactory, devops practices, continuous integration, software packaging",artifactory engineer
+"ai/ml frameworks, leadership, strategic planning, data science",artificial intelligence / machine learning leader
+"advanced ai/ml, leadership, strategic vision, team management",artificial intelligence / machine learning sr.leader
+"ai/ml frameworks, system architecture, cloud computing, data modeling",artificial intelligence architect
+"research methodologies, ai/ml algorithms, python, data analysis",artificial intelligence researcher
+"aws services, devops practices, ci/cd pipelines, automation",aws devops engineer
+"aws services, cloud architecture, solution design, cost optimization",aws solutions architect
+"azure services, devops practices, ci/cd pipelines, automation",azure devops engineer
+"bamboo, ci/cd pipelines, build automation, software configuration management",bamboo engineer
+"big data technologies, hadoop, spark, data warehousing, system design",big data architect
+"hadoop, spark, etl processes, data processing, database management",big data engineer
+"big data technologies, data analysis, sql, data mining",big data specialist
+"bitbucket, git, version control, ci/cd integration",bitbucket engineer
+"blockchain technologies, solidity, cryptography, smart contracts",blockchain developer
+"ci/cd pipelines, build systems, automation, configuration management",build and release engineer
+"build systems, scripting, automation, software configuration management",build engineer
+"requirements gathering, process analysis, system design, documentation",business systems analyst
+"c#, .net framework, asp.net, software development, object-oriented programming",c# developer
+"chef inspec, compliance automation, infrastructure testing, ruby",chef inspec engineer
+"chef, automation, infrastructure management, ruby",chef operations engineer
+"cloud platforms, system administration, virtualization, networking",cloud administrator
+"cloud platforms, system architecture, cloud security, devops",cloud architect
+"cloud automation tools, scripting, configuration management, devops",cloud automation engineer
+"cloud networking, virtual networks, network security, cloud platforms",cloud network engineer
+"cloud security, security protocols, compliance, cloud platforms",cloud security engineer
+"cnc machines, cad/cam software, g-code, manufacturing processes",cnc programmer
+"programming languages, scripting, problem solving, software development",coder
+"animation software, 3d modeling, visual effects, graphic design",computer graphics animator
+"hardware design, circuit design, embedded systems, testing",computer hardware engineer
+"network design, network protocols, security, system architecture",computer network architect
+"programming languages, algorithms, software development, debugging",computer programmer
+"research methodologies, data analysis, programming, scientific writing",computer research scientist
+"systems analysis, requirements gathering, process improvement, it consulting",computer systems analyst
+"confluence, atlassian suite, documentation, collaboration tools",confluence engineer
+"consul, service discovery, infrastructure automation, networking",consul engineer
+"coverage.py, python testing, test coverage analysis, software quality",coverage.py engineer
+"data analysis, sql, data visualization, statistical analysis",data analyst
+"data modeling, database design, etl processes, data warehousing",data architect
+"etl processes, data warehousing, big data technologies, database management",data engineer
+"data modeling techniques, database design, data governance, data analysis",data modeler
+"machine learning, statistical analysis, data mining, programming",data scientist
+"database management, sql, performance tuning, backup and recovery",database administrator
+"datadog, monitoring, system performance, cloud infrastructure",datadog engineer
+"devops practices, cloud computing, automation, system architecture",devops architect
+"automation, ci/cd, cloud computing, scripting",devops engineer
+"devops practices, team leadership, project management, automation",devops manager
+"devsecops practices, security automation, cloud security, system architecture",devsecops architect
+"security automation, ci/cd, cloud security, scripting",devsecops engineer
+"leadership, software development, project management, team management",director of engineering
+"docker, containerization, orchestration, devops",docker engineer
+"elk stack, log management, data analysis, system monitoring",elk engineer
+"embedded systems, c/c++, firmware development, hardware interfaces",embedded software engineer
+"programming basics, software development, problem solving, learning agility",entry level developer
+"networking basics, troubleshooting, system administration, learning agility",entry level network engineer
+"programming basics, software development, problem solving, learning agility",entry level programmer
+"html, css, javascript, basic web development, learning agility",entry level web developer
+"envoy proxy, service mesh, load balancing, networking",envoy engineer
+"falco, kubernetes security, cloud security, system monitoring",falco engineer
+"fluentd, log aggregation, data collection, system monitoring",fluentd engineer
+"fortify, static code analysis, application security, secure coding",fortify engineer
+"software frameworks, programming languages, problem solving, system design",frameworks specialist
+"html, css, javascript, ui/ux design, responsive design",front end developer
+"html, css, javascript, back-end technologies, database management",full stack developer
+"java, spring, hibernate, html, css, javascript",full stack java developer/programmer/engineer
+"python, django, flask, html, css, javascript",full stack python developer/programmer/engineer
+"c++, c#, game engines, 3d modeling, game design",game developer
+"google cloud platform, devops practices, ci/cd pipelines, automation",gcp devops engineer
+"gerrit, code review, git, version control",gerrit administrator
+"git, version control, branching strategies, collaboration",git engineer
+"github, git, collaboration tools, ci/cd integration",github engineer
+"gitlab, git, ci/cd pipelines, devops practices",gitlab engineer
+"gradle, build automation, java, software configuration management",gradle engineer
+"grafana, data visualization, monitoring, system performance",grafana engineer
+"groovy, scripting, automation, software development",groovy engineer
+"information architecture, user experience design, content strategy, taxonomy",information architect
+"security protocols, threat analysis, compliance, incident response",information security analyst
+"interaction design, user research, prototyping, usability testing",interaction designer
+"swift, objective-c, ios sdk, mobile app development, ui/ux design",ios developer
+"istio, service mesh, traffic management, security",istio engineer
+"it management, team leadership, project management, budgeting",it manager
+"jacoco, code coverage, java testing, software quality",jacoco engineer
+"java, spring, hibernate, software development, object-oriented programming",java developer
+"jenkins, ci/cd pipelines, build automation, devops practices",jenkins engineer
+"jira, atlassian suite, workflow configuration, project management",jira administrator
+"html, css, javascript, basic web development, learning agility",junior front end developer
+"swift, objective-c, ios sdk, basic mobile app development, learning agility",junior ios developer
+"junit, java testing, test automation, software quality",junit engineer
+"kubernetes, container orchestration, cloud computing, devops practices",kubernetes operations engineer
+"machine learning algorithms, system architecture, cloud computing, data modeling",machine learning architect
+"machine learning algorithms, python, data analysis, model deployment",machine learning engineer
+"maven, build automation, java, software configuration management",maven engineer
+"mobile app development, ios/android sdks, ui/ux design, programming languages",mobile app developer
+"mulesoft anypoint platform, api integration, java, integration patterns",mulesoft developer
+"nagios, system monitoring, linux, networking",nagios engineer
+"networking, system administration, linux/windows servers, troubleshooting",network and systems administrator
+"networking protocols, cisco/juniper devices, network security, troubleshooting",network engineer
+"new relic, application performance monitoring, troubleshooting, cloud computing",new relic engineer
+"nexus repository manager, artifact management, devops practices",nexus engineer
+"nomad, container orchestration, hashicorp tools, infrastructure automation",nomad engineer
+"notary, container security, docker, cryptography",notary engineer
+"octopus deploy, deployment automation, .net, powershell",octopus deploy engineer
+"openshift, kubernetes, containerization, devops practices",openshift engineer
+"openstack, cloud computing, virtualization, system administration",openstack engineer
+"system administration, linux/windows servers, troubleshooting, scripting",operations engineer
+"oracle database, sql, pl/sql, database development",oracle developer
+"oracle sql, pl/sql, data modeling, database design",oracle sql developer
+"packer, infrastructure as code, cloud computing, automation",packer engineer
+"php, mysql, web development, frameworks (laravel, symfony)",php developer
+"powershell, automation, windows server administration, scripting",powershell engineer
+"ai/ml architecture, leadership, strategic planning, deep learning",principle engineer in artificial intelligence
+"big data architecture, hadoop, spark, data warehousing",principle engineer in big data
+"data analysis, statistical modeling, data visualization, leadership",principle engineer in data analysis
+"machine learning algorithms, model development, deployment, leadership",principle engineer in machine learning
+"product strategy, market analysis, requirements gathering, product roadmap",product manager
+"troubleshooting, incident management, system monitoring, technical support",production support engineer
+"puppet, configuration management, automation, infrastructure as code",puppet operations engineer
+"ci/cd pipelines, build systems, automation, configuration management",senior build and release engineer
+"build systems, scripting, automation, software configuration management",senior build engineer
+"devops practices, cloud computing, automation, system architecture",senior devops engineer
+"kubernetes, docker, system reliability, automation, monitoring",site reliability engineer (kubernetes â€ï¿½ docker)
+"splunk, log management, data analysis, system monitoring",splunk engineer
+"xl deploy, deployment automation, devops practices, configuration management",xl deploy engineer
+"zabbix, system monitoring, network monitoring, alerting",zabbix engineer
+"api design, restful services, programming languages, security",api developer
+"automation tools, scripting, process improvement, testing",automation specialist
+"data analysis, sql, data visualization, business acumen",business intelligence analyst
+"cloud platforms, migration tools, system migration, project management",cloud migration specialist
+"security protocols, threat analysis, compliance, incident response",cybersecurity analyst
+"data quality tools, data profiling, sql, data governance",data quality engineer
+"digital strategy, technology consulting, business process improvement, change management",digital transformation consultant
+"e-commerce platforms, web development, payment gateways, security",e-commerce developer
+"embedded systems, c/c++, firmware development, hardware interfaces",embedded systems engineer
+"erp systems, business process analysis, implementation, training",erp consultant
+"gis software, spatial analysis, cartography, data visualization",geographic information systems (gis) analyst
+"technical support, troubleshooting, customer service, hardware/software",help desk technician
+"iam systems, security protocols, authentication, authorization",identity and access management specialist
+"system architecture, cloud computing, networking, security",infrastructure architect
+"iot platforms, embedded systems, sensor technology, programming languages",internet of things (iot) developer
+"it auditing, compliance, risk management, security",it auditor
+"java, system architecture, design patterns, cloud computing",java architect
+"linux servers, system administration, scripting, troubleshooting",linux administrator
+"mainframe systems, cobol, jcl, vsam",mainframe developer
+"microsoft dynamics, crm, .net, development",microsoft dynamics developer
+"mobile security, penetration testing, security protocols, risk management",mobile security specialist
+"nlp algorithms, python, machine learning, text analysis",natural language processing engineer
+"network design, network protocols, security, system architecture",network architect
+"penetration testing, security audits, ethical hacking, vulnerability assessment",penetration tester
+"python, system architecture, design patterns, cloud computing",python architect
+"qa processes, test automation, test planning, team leadership",quality assurance manager
+"release management, ci/cd pipelines, coordination, communication",release manager
+"sap modules, business process analysis, implementation, customization",sap consultant
+"ux/ui design, user research, prototyping, usability testing",ux/ui designer
+"html, css, javascript, web development, frameworks",web developer
+"server-side programming, databases, api development, frameworks",back end developer
+"web design, graphic design, ui/ux principles, wireframing",web designer
+"web technologies, system architecture, performance optimization, security",web engineer
+"web content management, project management, content strategy, collaboration",web producer
+"project management, web development, communication, budgeting",web project manager
+"content creation, content strategy, cms, seo",web content manager
+"multimedia design, video production, audio production, graphic design",multimedia architect
+"web analytics tools, data analysis, reporting, a/b testing",web analytics developer
+"search engine optimization, keyword research, content optimization, link building",seo consultant
+"seo strategy, team leadership, performance monitoring, reporting",seo manager
+"networking protocols, internet technologies, system administration, security",internet engineer
+"html, css, javascript, ui/ux design, responsive design",front-end designer
+"mobile app development, ios/android sdks, ui/ux design, programming languages",mobile developer
+"python, web frameworks (django, flask), data analysis, scripting",python developer
+"power bi, data modeling, dax, data visualization",power bi developer
+"power bi, data analysis, sql, business intelligence",power bi analyst
+"cloud platforms, virtualization, system administration, security",cloud computing specialist
+"security protocols, threat analysis, compliance, incident response",cybersecurity specialist
+"data analysis, machine learning, statistical modeling, data visualization",data science specialist
+"ai/ml algorithms, python, deep learning, neural networks",artificial intelligence engineer
+"database design, data modeling, sql, performance tuning",database architect
+"system architecture, design patterns, programming languages, cloud computing",software architect
+"security protocols, threat analysis, risk management, incident response",cybersecurity engineer
+"security protocols, threat analysis, compliance, incident response",infosec analyst/cybersecurity analyst
+"digital forensics, incident response, data recovery, legal compliance",computer forensic analyst
+"security protocols, threat analysis, compliance, risk management",it security specialist
+"security management, risk assessment, compliance, team leadership",security manager
+"security protocols, threat analysis, risk management, incident response",security engineer
+"security consulting, risk assessment, compliance, security solutions",security consultant
+"security leadership, risk management, compliance, incident response",director of security
+"security tools, system administration, user management, security policies",security administrator
+"security protocols, threat analysis, compliance, risk management",security specialist
+"it strategy, leadership, budgeting, project management",chief information officer
+"networking protocols, security protocols, firewall management, intrusion detection",network security engineer
+"machine learning algorithms, cybersecurity, data analysis, threat detection",machine learning engineer for cybersecurity
+"network monitoring, troubleshooting, performance analysis, reporting",network analyst
+"network operations, troubleshooting, monitoring, incident response",network operations engineer
+"network reliability, automation, monitoring, incident response",network reliability engineer
+"networking hardware, cabling, network design, implementation",network infrastructure specialist
+"technical support, troubleshooting, customer service, hardware/software",computer support specialist
+"it analysis, requirements gathering, process improvement, it consulting",information technology analyst
+"sales, technology solutions, customer relationship management, technical expertise",technology sales consultant
+"database development, sql, pl/sql, data modeling",database developer
+"data analysis, sql, data modeling, reporting",database analyst
+"data warehousing, etl processes, data modeling, team leadership",data warehouse manager
+"etl processes, sql, data modeling, data warehousing",data warehouse programming specialist
+"data analysis, intelligence gathering, reporting, security",intelligence specialist
+"cloud platforms, system architecture, cloud security, devops",cloud/software architect
+"cloud platforms, programming languages, software development, cloud services",cloud/software developer
+"cloud platforms, application development, cloud services, devops",cloud/software applications engineer
+"cloud platforms, system administration, virtualization, networking",cloud system administrator
+"cloud platforms, system engineering, automation, scripting",cloud system engineer
+"platform engineering, cloud computing, automation, devops practices",platform engineer
+"qa processes, test planning, test execution, reporting",software quality assurance analyst
+"ui design, user research, prototyping, usability testing",ui (user interface) designer
+"customer relationship management, technical support, account management, sales",technical account manager
+"sales, technology solutions, customer relationship management, sales strategy",it sales executive
+"sales leadership, sales strategy, customer relationship management, team management",it sales director
+"it management, team leadership, project management, budgeting",technology manager
+"technical support, administrative support, hardware/software, troubleshooting",technology assistant
+"technical expertise, problem solving, troubleshooting, it support",technology specialist
+"oracle database, team leadership, project management, budgeting",director oracle
+"knowledge management, information architecture, collaboration, documentation",knowledge manager
+"hardware management, team leadership, budgeting, inventory management",manager hardware
+"sharepoint, team leadership, project management, collaboration",sharepoint manager
+"requirements gathering, analysis, documentation, communication",requirements manager
+"implementation management, project management, team leadership, communication",implementation director
+"it strategy, leadership, innovation, project management",technology officer
+"business systems, team leadership, project management, process improvement",director business systems
+"net development, team leadership, project management, .net framework",manager net
+"systems integration, project management, team leadership, communication",systems integration manager
+"digital strategy, program management, team leadership, communication",digital program manager
+"integration management, project management, team leadership, communication",integration director
+"hardware management, team leadership, budgeting, strategic planning",director hardware
+"linux administration, team leadership, project management, troubleshooting",manager linux
+"php development, team leadership, project management, web development",manager php
+"firmware development, team leadership, project management, embedded systems",firmware manager
+"it program management, customer relationship management, stakeholder management, team leadership",it program engagement director
+"unix administration, team leadership, project management, troubleshooting",manager unix
+"technology adoption, training, communication, change management",technology adoption manager
+"technical support, troubleshooting, customer service, hardware/software",it support specialist
+"customer service, communication, problem solving, technical support",customer service representative
+"product management, technical expertise, market analysis, requirements gathering",technical product manager
+"project management, planning, execution, communication",project manager
+"program management, planning, execution, communication",program manager
+"portfolio management, investment management, risk management, financial analysis",portfolio manager
+"it strategy, leadership, budgeting, project management",chief information officer (cio)
+"technology strategy, innovation, research and development, team leadership",chief technology officer (cto)
+"it management, team leadership, budgeting, project management",it director
+"technical operations, infrastructure management, system administration, incident response",technical operations officer
+"information management, systems administration, data management, compliance",information management systems director
+"it consulting, project management, technical expertise, client management",senior it consultant
+"technical leadership, software development, team leadership, mentoring",technical lead
+"technical support, troubleshooting, learning agility, customer service",it apprentice
+"technical support, troubleshooting, hardware/software, networking",it technician
+"system administration, linux/windows servers, troubleshooting, scripting",it systems administrator
+"system engineering, networking, cloud computing, security",it engineer
+"networking, troubleshooting, system administration, security",computer network specialist
+"research methodologies, data analysis, programming, scientific writing",computer and information research scientist
+"research management, team leadership, budgeting, project management",computer and information research manager
+"software development, team leadership, project management, software architecture",software development manager
+"software development, programming languages, algorithm design, problem solving",software development engineer
+"application design, ui/ux principles, programming languages, software architecture",application designer
+"application development, programming languages, troubleshooting, system administration",application engineer
+"programming languages, software development, team leadership, mentoring",lead programmer
+"agile methodologies, scrum, kanban, team facilitation",iteration manager
+"web development, web design, system administration, content management",webmaster
+"user research, usability testing, data analysis, reporting",ux/ui researcher
+"ux/ui design, user research, prototyping, usability testing",ux/ui specialist
+"animation software, 2d/3d animation, storyboarding, visual effects",animator
+"motion graphics, animation software, visual effects, graphic design",motion graphics artist
+"2d animation, drawing, illustration, animation software",2d artist/animator
+"3d animation, modeling, texturing, rigging",3d artist/animator
+"character design, illustration, drawing, animation",character designer
+"storyboarding, drawing, visual communication, film/animation",storyboard artist
+"visual effects, compositing, 3d modeling, simulation",vfx artist
+"rigging, animation, 3d modeling, character setup",rigging artist
+"technical animation, scripting, programming, animation software",technical animator
+"art direction, visual design, team leadership, project management",art director
+"animation direction, storytelling, team leadership, project management",animation director
+"visual effects, animation, compositing, 3d modeling",visual effects animator
+"visual effects supervision, team leadership, technical expertise, project management",graphic effects supervisor
+"forensic animation, 3d modeling, legal expertise, visual communication",forensic animator
+"compositing, visual effects, color correction, image manipulation",compositor
+"visual effects, technical expertise, scripting, problem solving",effects technical director (fx td)
+"layout, cinematography, 3d modeling, visual storytelling",layout artist
+"ai/ml algorithms, python, research methodologies, data analysis",ai researcher
+"ai/ml architecture, software design, cloud computing, data modeling",ai software architect
+"business intelligence tools, data modeling, sql, etl processes",business intelligence developer
