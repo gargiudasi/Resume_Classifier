@@ -7,8 +7,8 @@ services:
     runtime: python
     buildCommand: |
     "pip install -r requirements.txt"
-    "python notebooks/generate_data.py"
-    "python notebooks/train_model.py"
+    "python generate_train/generate_data.py"
+    "python generate_train/train_model.py"
     startCommand: "uvicorn app.main:app --host 0.0.0.0 --port 10000"
     envVars:
       - key: PORT
